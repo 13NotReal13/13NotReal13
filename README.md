@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Статистика
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ваше_имя_пользователя&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=13NotReal13&show_icons=true&theme=radical)
