@@ -62,7 +62,7 @@
 
 <p>
   <!-- Иконка Telegram -->
-  <a href="https://t.me/YourTelegramHandle" target="_blank">
+  <a href="https://t.me/ivan_semik1n" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <!-- Иконка LinkedIn (при необходимости) -->
