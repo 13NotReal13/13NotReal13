@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/5131091/236882128-221511e7-e20f-436e-97b1-dd103cadc8b6.gif" alt="Welcome Banner" />
 </p>
 
-<h1 align="center">Привет, я <a href="https://github.com/13NotReal13">13NotReal13</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Привет, меня зовут Иван! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
   <b>Разрабатываю мобильные приложения, люблю пробовать новые технологии и экспериментировать с кодом.</b>
@@ -65,19 +65,7 @@
   <a href="https://t.me/ivan_semik1n" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <!-- Иконка LinkedIn (при необходимости) -->
-  <a href="https://www.linkedin.com/in/yourLinkedIn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
 </p>
-
----
-
-<details>
-  <summary>📈 График моей активности</summary>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=13NotReal13&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" />
-</details>
 
 ---
 
